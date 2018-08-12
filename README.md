@@ -1,6 +1,6 @@
-# chione
+# Chione
 
-Ice cream tracker
+App to keep track of the ice cream flavors in nearby ice cream stores. See what flavors they have in stock using the app and get notified when your favorite flavor is back in stock. 
 
 ## Getting Started
 
